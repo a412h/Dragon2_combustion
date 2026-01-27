@@ -13,7 +13,7 @@
 </pre>
 </div>
 
-# DRAGON II Combustion - Experimental CUDA Navier-Stokes Solver with Frozen Chemistry model - in development
+# DRAGON II Combustion - Experimental CUDA Navier-Stokes Solver with Frozen Chemistry Combustion model - in development
 
 ## Description
 This project implements a Frozen Chemistry Combustion model inside the solver Dragon 2. The goal
