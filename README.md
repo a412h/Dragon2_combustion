@@ -7,23 +7,23 @@
 ██████╔╝██║  ██║██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║    ██║██║
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝    ╚═╝╚═╝
 
-                 ╔═╗╔═╗╔╦╗╔╗ ╦ ╦╔═╗╔╦╗╦╔═╗╔╗╔
-                 ║  ║ ║║║║╠╩╗║ ║╚═╗ ║ ║║ ║║║║
-                 ╚═╝╚═╝╩ ╩╚═╝╚═╝╚═╝ ╩ ╩╚═╝╝╚╝
+                    ╔═╗╔═╗╔╦╗╔╗ ╦ ╦╔═╗╔╦╗╦╔═╗╔╗╔
+                    ║  ║ ║║║║╠╩╗║ ║╚═╗ ║ ║║ ║║║║
+                    ╚═╝╚═╝╩ ╩╚═╝╚═╝╚═╝ ╩ ╩╚═╝╝╚╝
 </pre>
 </div>
 
 # DRAGON II Combustion - Experimental CUDA Navier-Stokes Solver with Frozen Chemistry model - in development
 
 ## Description
-This project implements a Frozen Chemistry model inside the solver Dragon 2. The goal
-is to simulate the combustion with a RD-107 rocket engine (kerosene and liquid oxygen), in dimension 3, with a DNS solver. 
+This project implements a Frozen Chemistry Combustion model inside the solver Dragon 2. The goal
+is to simulate the combustion of a RD-107 rocket engine (kerosene and liquid oxygen), in dimension 3, with a DNS solver. 
 
 ## Key Concepts
 The approach followed here is to transfer the entire computation on the GPU to offer maximal speed.
 
 ## Remarks
-- Navier-Stokes DNS solver with Frozen Chemistry model
+- Navier-Stokes DNS solver with Frozen Chemistry Combustion model
 - Single GPU computation
 - This project uses the data from the project https://github.com/AndyShor/RD_107.gitfor, for the description of the geometry of the engine and the fractions of the chemical species.
 
@@ -47,9 +47,9 @@ make
 ./solver_ns
 ```
 
-### - These are extracts of transcient simulations, made with about 2.25 Million elements (Q1) -
+### - These are extracts of a transcient simulation made with about 2.25 Million elements (Q1) -
 
-##### mesh with dealii:
+#### Mesh with dealii:
 
 ![RD107 3D](RD107_mesh.png)
 
