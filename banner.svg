@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 100">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <g fill="#B8860B">
+    <!-- D -->
+    <rect x="30" y="10" width="5" height="35"/>
+    <rect x="35" y="10" width="10" height="5"/>
+    <rect x="45" y="15" width="5" height="25"/>
+    <rect x="35" y="40" width="10" height="5"/>
+    <!-- R -->
+    <rect x="55" y="10" width="5" height="35"/>
+    <rect x="60" y="10" width="10" height="5"/>
+    <rect x="70" y="15" width="5" height="8"/>
+    <rect x="60" y="23" width="10" height="5"/>
+    <rect x="67" y="28" width="5" height="17"/>
+    <!-- A -->
+    <rect x="80" y="15" width="5" height="30"/>
+    <rect x="85" y="10" width="10" height="5"/>
+    <rect x="95" y="15" width="5" height="30"/>
+    <rect x="85" y="25" width="10" height="5"/>
+    <!-- G -->
+    <rect x="105" y="10" width="5" height="35"/>
+    <rect x="110" y="10" width="15" height="5"/>
+    <rect x="110" y="40" width="15" height="5"/>
+    <rect x="120" y="25" width="5" height="20"/>
+    <rect x="115" y="25" width="5" height="5"/>
+    <!-- O -->
+    <rect x="130" y="10" width="5" height="35"/>
+    <rect x="135" y="10" width="10" height="5"/>
+    <rect x="135" y="40" width="10" height="5"/>
+    <rect x="145" y="10" width="5" height="35"/>
+    <!-- N -->
+    <rect x="155" y="10" width="5" height="35"/>
+    <rect x="160" y="15" width="5" height="8"/>
+    <rect x="165" y="23" width="5" height="8"/>
+    <rect x="170" y="10" width="5" height="35"/>
+    <!-- I -->
+    <rect x="185" y="10" width="5" height="35"/>
+    <!-- I -->
+    <rect x="195" y="10" width="5" height="35"/>
+  </g>
+
+  <g fill="#996515">
+    <!-- C -->
+    <rect x="20" y="55" width="4" height="25"/>
+    <rect x="24" y="55" width="10" height="4"/>
+    <rect x="24" y="76" width="10" height="4"/>
+    <!-- O -->
+    <rect x="39" y="55" width="4" height="25"/>
+    <rect x="43" y="55" width="8" height="4"/>
+    <rect x="43" y="76" width="8" height="4"/>
+    <rect x="51" y="55" width="4" height="25"/>
+    <!-- M -->
+    <rect x="60" y="55" width="4" height="25"/>
+    <rect x="64" y="59" width="4" height="6"/>
+    <rect x="68" y="65" width="4" height="6"/>
+    <rect x="72" y="59" width="4" height="6"/>
+    <rect x="76" y="55" width="4" height="25"/>
+    <!-- B -->
+    <rect x="85" y="55" width="4" height="25"/>
+    <rect x="89" y="55" width="8" height="4"/>
+    <rect x="89" y="64" width="8" height="4"/>
+    <rect x="89" y="76" width="8" height="4"/>
+    <rect x="97" y="59" width="4" height="5"/>
+    <rect x="97" y="68" width="4" height="8"/>
+    <!-- U -->
+    <rect x="106" y="55" width="4" height="25"/>
+    <rect x="110" y="76" width="8" height="4"/>
+    <rect x="118" y="55" width="4" height="25"/>
+    <!-- S -->
+    <rect x="127" y="55" width="14" height="4"/>
+    <rect x="127" y="59" width="4" height="9"/>
+    <rect x="127" y="64" width="14" height="4"/>
+    <rect x="137" y="68" width="4" height="8"/>
+    <rect x="127" y="76" width="14" height="4"/>
+    <!-- T -->
+    <rect x="146" y="55" width="14" height="4"/>
+    <rect x="151" y="59" width="4" height="21"/>
+    <!-- I -->
+    <rect x="165" y="55" width="4" height="25"/>
+    <!-- O -->
+    <rect x="174" y="55" width="4" height="25"/>
+    <rect x="178" y="55" width="8" height="4"/>
+    <rect x="178" y="76" width="8" height="4"/>
+    <rect x="186" y="55" width="4" height="25"/>
+    <!-- N -->
+    <rect x="195" y="55" width="4" height="25"/>
+    <rect x="199" y="60" width="4" height="6"/>
+    <rect x="203" y="66" width="4" height="6"/>
+    <rect x="207" y="55" width="4" height="25"/>
+  </g>
+</svg>
