@@ -14,7 +14,7 @@ The approach followed here is to transfer the entire computation on the GPU to o
 ## Remarks
 - Navier-Stokes DNS solver with Frozen Chemistry Combustion model
 - Single GPU computation
-- This project uses the data from the project https://github.com/AndyShor/RD_107.gitfor, for the description of the geometry of the engine and the fractions of the chemical species.
+- This project uses the data from the project https://github.com/AndyShor/RD_107.git, for the description of the geometry of the engine and the fractions of the chemical species.
 
 ## Supported OS
 Tested on Ubuntu 24.04
