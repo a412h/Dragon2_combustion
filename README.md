@@ -57,7 +57,7 @@ make
 
 ![RD107 2D](RD107_mesh_2d.png)
 
-#### Contour of density):
+#### Contour of density:
 
 ![RD107 2D](RD107_2d_2d_rho.png)
 
