@@ -36,7 +36,7 @@ make
 ./solver_ns
 ```
 
-### - These are extracts of a transcient simulation made with about 2.25 Million elements (Q1) -
+### - These are extracts of a 3d transcient simulation made with about 2.25 Million elements (Q1) -
 
 #### Mesh with dealii:
 
@@ -50,5 +50,17 @@ make
 #### 3d contour of T:
 
 ![RD107 3D](RD107_3d_T.png)
+
+### - These are extracts of a 2d transcient simulation made with about 2.7e5 elements (Q1) -
+
+#### Mesh with dealii:
+
+![RD107 2D](RD107_mesh_2d.png)
+
+#### Contour of density):
+
+![RD107 2D](RD107_2d_2d_rho.png)
+
+
 
 
