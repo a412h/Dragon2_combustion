@@ -1,20 +1,22 @@
 <div align="center">
-  <img src="banner.svg" alt="Dragon II - Combustion">
+  <img src="dragon2_combustion_banner.png"/>
 </div>
 
 # DRAGON II Combustion - Experimental CUDA Navier-Stokes Solver with Frozen Chemistry Combustion model - in development
 
 ## Description
-This project implements a Frozen Chemistry Combustion model inside the solver Dragon 2. The goal
+This project implements a Frozen Chemistry Combustion model inside the solver Dragon2. The goal
 is to simulate the combustion of a RD-107 rocket engine (kerosene and liquid oxygen), in dimension 3, with a DNS solver. 
 
 ## Key Concepts
 The approach followed here is to transfer the entire computation on the GPU to offer maximal speed.
+This solver is designed and highly optimized for rapid prototyping on a laptop or a single workstation (equipped with a CUDA GPU).
 
 ## Remarks
-- Navier-Stokes DNS solver with Frozen Chemistry Combustion model
+- Navier-Stokes, compressible, direct, frozen-chemistry combustion model, FEM solver
 - Single GPU computation
 - This project uses the data from the project https://github.com/AndyShor/RD_107.git, for the description of the geometry of the engine and the fractions of the chemical species.
+- Code will be given only on demand
 
 ## Supported OS
 Tested on Ubuntu 24.04
